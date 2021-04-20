@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![natesplayground's github stats](https://github-readme-stats.vercel.app/api?username=natesplayground&show_icons=true&theme=dark)
+
+![natesplayground's top language](https://github-readme-stats.vercel.app/api/top-langs/?username=natesplayground&theme=dracula&layout=compact)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=natesplayground&theme=dark)](https://git.io/streak-stats)
